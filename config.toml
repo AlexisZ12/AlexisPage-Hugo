@@ -1,7 +1,6 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+theme = ananke"
+resourceDir = "resources"
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
